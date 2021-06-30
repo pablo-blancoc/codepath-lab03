@@ -6,5 +6,6 @@
     <item android:title="Add"
         android:id="@+id/btnAdd"
         android:icon="@android:drawable/ic_input_add"
-        app:showAsAction="always" />
+        app:showAsAction="always"
+        android:iconTint="#FFFFFF" />
 </menu>
